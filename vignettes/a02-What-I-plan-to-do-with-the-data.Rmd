@@ -1,0 +1,19 @@
+---
+title: "What I plan to do with the data"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  echo = FALSE
+)
+```
+
+dpeatland is part of my PhD project. One of my goals is to facilitate data integration into dynamic peatland models to model long-term carbon accumulation. In dpeatland, I collect all data I plan to use to calibrate a peatland model.
+
+I will **publish this model** so that future projects can benefit from their capabilities. <!--For this, I've created the R package [irpeat](https://github.com/henningte/irpeat/). [---todo: update]-->
+
+The aim is to provide an open and easily accessible mechanistic model for long-term carbon accumulation in peatlands that can be used by other scientists, for example to discover new hypotheses. <!-- See the [GitHub repository for odpm]() if you are interested.-->
+
+Since these tasks are a core part of my PhD project and I am expected to contribute the main part to it, there is only a limited extent to which collaborations on this work are possible.

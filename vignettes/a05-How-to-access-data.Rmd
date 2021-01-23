@@ -1,0 +1,15 @@
+---
+title: "How to access data"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  echo = FALSE
+)
+```
+
+Data will be publicly accessible after November 2022, when I plan to finish my PhD project and publish the data compendium. A link to a repositorium with dpeatland will be made available here.
+
+dpeatland will contain functions to make the data easily accessible and help to cite the retrieved data.

@@ -1,0 +1,31 @@
+Package: dpeatland
+Title: Data for peatland modeling
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "Henning",
+           family = "Teickner",
+           role = c("aut", "cre"),
+           email = "henning.teickner@uni-muenster.de")
+Description: dpeatland is a data compendium for data useful to model
+    peatland ecosystem processes. The aim is to provide a comprehensive 
+    and easily to access collection of data suitbale to calibrate peatland
+    process models under an open license.
+License: CC BY 4.0
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    bookdown,
+    here
+Suggests: 
+    devtools,
+    git2r,
+    knitr,
+    rmarkdown,
+    dplyr
+RoxygenNote: 7.1.0
+URL: https://github.com/henningte/dpeatland
+BugReports: https://github.com/henningte/dpeatland/issues
+VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)
