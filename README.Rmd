@@ -20,7 +20,7 @@ Title <- "Title of your paper goes here"
 knitr::include_graphics("./man/figures/dpeatland_icon.svg")
 ```
 <!--]{style="float:right"} -->
-**peat mid infrared spectra data compendium**
+**data for peatland modeling**
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)

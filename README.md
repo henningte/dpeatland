@@ -7,7 +7,7 @@
 
 <!--]{style="float:right"} -->
 
-**peat mid infrared spectra data compendium**
+**data for peatland modeling**
 
 <!-- badges: start -->
 
